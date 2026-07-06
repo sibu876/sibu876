@@ -17,7 +17,7 @@
 <a href="https://sibghatullah-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0524" />
 </a>
-<a href="https://linkedin.com/in/sibu876">
+<a href="https://www.linkedin.com/in/sibghatullahdeveloper/">
   <img src="https://img.shields.io/badge/LINKEDIN-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0524" />
 </a>
 <a href="mailto:your.email@example.com">
@@ -280,7 +280,7 @@ Actively building backend systems and full stack applications while sharpening s
 
 <div align="center">
 
-<a href="https://leetcode.com/sibu876">
+<a href="[https://leetcode.com/sibu876](https://leetcode.com/u/Sibghatullah08/)">
   <img src="https://img.shields.io/badge/LeetCode-Solving%20Consistently-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0524" />
 </a>
 <a href="https://geeksforgeeks.org/user/sibu876">
