@@ -369,8 +369,8 @@ Actively building backend systems and full stack applications while sharpening s
 
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0524" />
-</a>
-<a href="https://linkedin.com/in/sibu876">
+</a>[
+<a href="https://linkedin.com/in/sibu876](https://www.linkedin.com/in/sibghatullahdeveloper/)">
   <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0524" />
 </a>
 <a href="https://github.com/sibu876">
