@@ -92,19 +92,6 @@ I approach engineering with an emphasis on maintainability: well-structured serv
 
 ---
 
-## 🟣 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning Foundations** | ⭐⭐⭐☆☆ | Core supervised/unsupervised learning concepts, model evaluation basics |
-| **Applied Python for Data** | ⭐⭐⭐☆☆ | Data handling, scripting, exploratory analysis |
-| **API Integration for ML Services** | ⭐⭐⭐☆☆ | Consuming ML/AI APIs within backend services |
-| **Continuous Learning** | ⭐⭐⭐⭐☆ | Actively exploring AI-assisted developer tooling and applied ML fundamentals |
-
-</div>
-
 ---
 
 ## 🟣 Featured Projects
